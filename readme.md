@@ -1,6 +1,6 @@
 # Binary Dictionary v1.0
 ## Download:
-* Window: [Binary-Dictionary-win32-x64](https://github.com/leephan2k1/binary-dict-host/raw/main/BinaryDictionay-win32-x64.rar)
+* Windows: [Binary-Dictionary-win32-x64](https://github.com/leephan2k1/binary-dict-host/raw/main/BinaryDictionay-win32-x64.rar)
 * Linux: [BinaryDictionary-linux-x64](https://github.com/leephan2k1/binary-dict-host/raw/main/BinaryDictionay-linux-x64.rar)
 * MacOS: [BinaryDictionary-MacOS](https://github.com/leephan2k1/binary-dict-host/raw/main/BinaryDictionay-darwin-x64.zip)
 ## Tech stack
